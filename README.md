@@ -28,13 +28,18 @@ Para rodar o projeto localmente, siga os passos abaixo:
    npm run dev
    ```
 
+## Documentação:
+
+- [Documentação do Projeto](https://github.com/mock/cms-conecta/blob/main)
+- [Instruções do Projeto](https://github.com/mock/cms-conecta/blob/main)
+
 ## Considerações:
 
 Este projeto é desenvolvido por uma equipe de desenvolvedores iniciantes e tem como principal objetivo o aprimoramento de habilidades técnicas e profissionais. Esperamos que, ao longo do processo, ocorra uma evolução contínua do código, com refatorações, melhorias e ajustes visando uma melhor qualidade técnica e experiência do usuário.
 
 A ideal do projeto é atuar em um projeto com desenvolvedores iniciantes para aprimoramento de habilidades e agregar experiencias para prospectar oportunidades de emprego.
 
-A iniciativa surgiu na comunidade Conecta e visa preparar seus membros para o mercado de trabalho. A primeira versão foi idealizada por [Robson Ferreira]("https://github.com/RobsonFe") com apoio e aprovação da Tech Master da comunidade, `Conecta` [Audrey Alburquerque]("https://github.com/Dry-A").
+A iniciativa surgiu na comunidade Conecta e visa preparar seus membros para o mercado de trabalho. A primeira versão foi idealizada por [Robson Ferreira](https://github.com/RobsonFe) com apoio e aprovação da Tech Master da comunidade, `Conecta` [Audrey Alburquerque](https://github.com/Dry-A).
 
 ## Contribuição
 
