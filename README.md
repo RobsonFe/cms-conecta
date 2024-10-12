@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CMS Conecta - Plataforma de Gerenciamento de Projetos e Oportunidades para Desenvolvedores
 
-## Getting Started
+## Descrição do Projeto:
 
-First, run the development server:
+O projeto CMS (Content Management System / Sistema de Gerenciamento de Conteúdo) é uma plataforma de Gerenciamento de Conteúdo que visa conectar desenvolvedores e empresas de forma eficiente, onde cada desenvolvedor pode publicar o seu projeto e empresas avaliarem aquele projeto e contactar o desenvolvedor para prestar um serviço.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tecnologias Utilizadas:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Instalação
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Para rodar o projeto localmente, siga os passos abaixo:
 
-## Learn More
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/cms-conecta.git
+   ```
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## Considerações:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Este projeto é desenvolvido por uma equipe de desenvolvedores iniciantes e tem como principal objetivo o aprimoramento de habilidades técnicas e profissionais. Esperamos que, ao longo do processo, ocorra uma evolução contínua do código, com refatorações, melhorias e ajustes visando uma melhor qualidade técnica e experiência do usuário.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+A ideal do projeto é atuar em um projeto com desenvolvedores iniciantes para aprimoramento de habilidades e agregar experiencias para prospectar oportunidades de emprego.
 
-## Deploy on Vercel
+A iniciativa surgiu na comunidade Conecta e visa preparar seus membros para o mercado de trabalho. A primeira versão foi idealizada por [Robson Ferreira]("https://github.com/RobsonFe") com apoio e aprovação da Tech Master da comunidade, `Conecta` [Audrey Alburquerque]("https://github.com/Dry-A").
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contribuição
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Se você deseja colaborar, siga as instruções:
+
+Obs: Todas as contribuições deverão seguir um flow e não devem ser enviadas diretamente para a `main`, caso contrário, não serão aprovadas.
+
+1. Faça um fork do projeto.
+2. Crie uma branch para a sua feature:
+   ```bash
+   git checkout -b minha-feature
+   ```
+3. Faça o commit das suas mudanças:
+   ```bash
+   git commit -m 'Adicionando minha nova feature'
+   ```
+4. Envie para a branch principal:
+   ```bash
+   git push origin minha-feature
+   ```
+5. Abra um pull request.
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
